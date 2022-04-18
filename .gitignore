@@ -7,19 +7,26 @@
 
 # User-specific files
 .Ruserdata
+data_original/
+outputs/
+*.R
+index.Rmd
+_site.yml
 
 # Example code in package build process
 *-Ex.R
 
 # Output files from R CMD build
 /*.tar.gz
-
+docs/data_original/
+docs/outputs/
+docs/site_libs/header-attrs-2.13/
 # Output files from R CMD check
 /*.Rcheck/
 
 # RStudio files
 .Rproj.user/
-
+*.Rproj
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
