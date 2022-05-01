@@ -23,6 +23,7 @@ test.Rmd
 docs/data_original/
 docs/outputs/
 docs/site_libs/header-attrs-2.13/
+docs/site_libs/header-attrs-2.14/
 docs/test.html
 
 # Output files from R CMD check
