@@ -15,7 +15,7 @@ _site.yml
 dqi_email.Rmd
 test.Rmd
 dqi_dashboard.Rmd
-report_outline
+report_outline.txt
 
 # Example code in package build process
 *-Ex.R
@@ -28,7 +28,7 @@ docs/site_libs/header-attrs-2.13/
 docs/site_libs/header-attrs-2.14/
 docs/test.html
 docs/dqi_dashboard.html
-docs/report_outline
+docs/report_outline.txt
 
 # Output files from R CMD check
 /*.Rcheck/
